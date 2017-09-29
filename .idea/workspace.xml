@@ -5,8 +5,7 @@
     <bookmark url="file://$PROJECT_DIR$/leetcode/src/main/java/SwapNodesInPairs24/swapPairs.java" line="38" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df8dcdf9-e25e-46b0-b043-4a6009aad962" name="Default" comment="24">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leetcode/src/main/java/DivideTwoIntegers29/Divide.java" />
+    <list default="true" id="df8dcdf9-e25e-46b0-b043-4a6009aad962" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/main/AddTwoNumbers2/AddTwoNumbers$ListNode.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/main/AddTwoNumbers2/AddTwoNumbers$Solution.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/main/AddTwoNumbers2/AddTwoNumbers.class" afterPath="" />
@@ -571,11 +570,18 @@
       <option name="project" value="LOCAL" />
       <updated>1506343721850</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="24">
+      <created>1506701673648</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1506701673648</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79766000" />
+    <option name="totallyTimeSpent" value="79782000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
