@@ -22,8 +22,7 @@ public class SearchinRotatedSortedArray {
             i = left + (right - left) / 2;
         }
         if (left>right) i=right;
-        int res = Math.max(BinarySearch(nums, 0, i - 1,target),BinarySearch(nums, i, nums.length-1,target));
-        return res;
+        return Math.max(BinarySearch(nums, 0, i - 1,target),BinarySearch(nums, i, nums.length-1,target));
     }
 
     private int BinarySearch(int[] nums, int left, int right,int target) {
