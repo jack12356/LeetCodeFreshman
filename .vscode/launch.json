@@ -1,0 +1,217 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AddTwoNumbers<leetcode>",
+            "request": "launch",
+            "mainClass": "AddTwoNumbers2.AddTwoNumbers",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode>",
+            "request": "launch",
+            "mainClass": "Closest3numberSum16.Solution",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode>(1)",
+            "request": "launch",
+            "mainClass": "ContainerWithMostWater11.Solution",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Devide<leetcode>",
+            "request": "launch",
+            "mainClass": "Divide29.Devide",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Divide<leetcode>",
+            "request": "launch",
+            "mainClass": "DivideTwoIntegers29.Divide",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode>(2)",
+            "request": "launch",
+            "mainClass": "FourSum18.Solution",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode>(3)",
+            "request": "launch",
+            "mainClass": "FourSumOfTarget18.Solution",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Generate<leetcode>",
+            "request": "launch",
+            "mainClass": "GenerateParentheses22.Generate",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode>(4)",
+            "request": "launch",
+            "mainClass": "IntegertoRoman12.Solution",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode>(5)",
+            "request": "launch",
+            "mainClass": "LetterCombinationsofaPhoneNumber17.Solution",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode>(6)",
+            "request": "launch",
+            "mainClass": "LongestCommonPrefix14.Solution",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode>(7)",
+            "request": "launch",
+            "mainClass": "LongestPalindrome5.Solution",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Test<leetcode>",
+            "request": "launch",
+            "mainClass": "LongestSubstring3.Test",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode>(8)",
+            "request": "launch",
+            "mainClass": "MedianofTwoSortedArrays4.Solution",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MergeTwoLists<leetcode>",
+            "request": "launch",
+            "mainClass": "MergeTwoSortedLists21.MergeTwoLists",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MergeKLists<leetcode>",
+            "request": "launch",
+            "mainClass": "MergekSortedLists23.MergeKLists",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solotion<leetcode>",
+            "request": "launch",
+            "mainClass": "PalindromeNumber9.Solotion",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode>(9)",
+            "request": "launch",
+            "mainClass": "RemoveNthNode19.Solution",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode>(10)",
+            "request": "launch",
+            "mainClass": "ReverseInteger7.Solution",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ReverseKGroup<leetcode>",
+            "request": "launch",
+            "mainClass": "ReverseNodesInKGroup25.ReverseKGroup",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SearchinRotatedSortedArray<leetcode>",
+            "request": "launch",
+            "mainClass": "SearchinRotatedSortedArray33.SearchinRotatedSortedArray",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode>(11)",
+            "request": "launch",
+            "mainClass": "StringVaild20.Solution",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode>(12)",
+            "request": "launch",
+            "mainClass": "StringtoInteger8.Solution",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FindSubstring<leetcode>",
+            "request": "launch",
+            "mainClass": "SubstringwithConcatenationofAllWords30.FindSubstring",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-swapPairs<leetcode>",
+            "request": "launch",
+            "mainClass": "SwapNodesInPairs24.swapPairs",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode>(13)",
+            "request": "launch",
+            "mainClass": "ThreeSumOfZero15.Solution",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TreeTest<leetcode>",
+            "request": "launch",
+            "mainClass": "TreeForTest.TreeTest",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode>(14)",
+            "request": "launch",
+            "mainClass": "TwoSum1.Solution",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<leetcode>(15)",
+            "request": "launch",
+            "mainClass": "ZigZagConversion6.Solution",
+            "projectName": "leetcode"
+        }
+    ]
+}
