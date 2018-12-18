@@ -34,7 +34,7 @@ public class Solution {
             }
         }
 
-        return sum;5
+        return sum;
     }
 
     public static void main(String[] args) {
