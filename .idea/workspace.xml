@@ -5,31 +5,7 @@
     <bookmark url="file://$PROJECT_DIR$/leetcode/src/main/java/SwapNodesInPairs24/swapPairs.java" line="38" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df8dcdf9-e25e-46b0-b043-4a6009aad962" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/ListNode/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/MergeTwoRankedList/MergeTwoList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/PalindromeList21/PalindromeList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/Closest3numberSum16/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/Closest3numberSum16/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/AddTwoNumbers2/AddTwoNumbers$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/AddTwoNumbers2/AddTwoNumbers$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/AddTwoNumbers2/AddTwoNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/AddTwoNumbers2/AddTwoNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/ContainerWithMostWater11/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/ContainerWithMostWater11/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/FourSumOfTarget18/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/FourSumOfTarget18/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/IntegertoRoman12/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/IntegertoRoman12/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/LetterCombinationsofaPhoneNumber17/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/LetterCombinationsofaPhoneNumber17/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/LongestCommonPrefix14/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/LongestCommonPrefix14/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/LongestPalindrome5/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/LongestPalindrome5/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/LongestSubstring3/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/LongestSubstring3/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/LongestSubstring3/SolutionByLeetCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/LongestSubstring3/SolutionByLeetCode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/MedianofTwoSortedArrays4/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/MedianofTwoSortedArrays4/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/PalindromeNumber9/Solotion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/PalindromeNumber9/Solotion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/ReverseInteger7/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/ReverseInteger7/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/StringtoInteger8/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/StringtoInteger8/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/ThreeSumOfZero15/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/ThreeSumOfZero15/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/TwoSum1/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/TwoSum1/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/ZigZagConversion6/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/ZigZagConversion6/Solution.class" afterDir="false" />
-    </list>
+    <list default="true" id="df8dcdf9-e25e-46b0-b043-4a6009aad962" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/PalindromeList21/PalindromeList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="7" selection-end-column="24" />
+            <state relative-caret-position="-5">
+              <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -166,7 +142,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545105882511" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545105960776" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
@@ -753,8 +729,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/PalindromeList21/PalindromeList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="7" selection-end-column="24" />
+        <state relative-caret-position="-5">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
         </state>
       </provider>
     </entry>
