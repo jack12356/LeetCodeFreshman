@@ -6,14 +6,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df8dcdf9-e25e-46b0-b043-4a6009aad962" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/ValidBrackets/ValidBrackets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/中级算法/ThreeSum/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/中级算法/GroupAnagrams/GroupAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/中级算法/IncreasingTriplet/IncreasingTriplet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/中级算法/LengthOfLongestSubstring/LengthOfLongestSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/中级算法/LongestPalindrome/LongestPalindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/CountPrimes/CountPrimes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/HammingWeight/HammingWeight.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/PowerOfThree/PowerOfThree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/ShuffleanArray/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/LongestPalindrome5/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/LongestPalindrome5/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/ThreeSum/ThreeSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/ThreeSum/ThreeSum.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,13 +24,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/ThreeSum/ThreeSum.java">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/IncreasingTriplet/IncreasingTriplet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="57" column="38" lean-forward="true" selection-start-line="57" selection-start-column="38" selection-end-line="57" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="-127">
+              <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -54,11 +50,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/leetcode/src/main/java/LongestPalindrome/Find.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/java/LongestPalindrome/Solution.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/java/ZigZagConversion6/Solution.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/java/ReverseInteger/Solution.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/java/ReverseInteger7/Solution.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/java/StringtoInteger8/Solution.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/java/PalindromeNumber9/Solotion.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/java/ContainerWithMostWater11/Solution.java" />
@@ -105,6 +96,11 @@
         <option value="$PROJECT_DIR$/leetcode/src/main/java/PasikaTriple/PasikaTriple.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/java/ValidBrackets/ValidBrackets.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/中级算法/ThreeSum/ThreeSum.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/中级算法/GroupAnagrams/GroupAnagrams.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/中级算法/LengthOfLongestSubstring/LengthOfLongestSubstring.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/LongestPalindrome5/Solution.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/中级算法/LongestPalindrome/LongestPalindrome.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/中级算法/IncreasingTriplet/IncreasingTriplet.java" />
       </list>
     </option>
   </component>
@@ -121,7 +117,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1057" />
@@ -157,7 +153,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545460327992" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545624693717" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
@@ -179,20 +175,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ThreeSum">
+  <component name="RunManager" selected="Application.IncreasingTriplet">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountPrimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CountPrimes.CountPrimes" />
+    <configuration name="GroupAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GroupAnagrams.GroupAnagrams" />
       <module name="main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CountPrimes.*" />
+          <option name="PATTERN" value="GroupAnagrams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -214,13 +210,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeTwoList (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MergeTwoList.MergeTwoList" />
+    <configuration name="IncreasingTriplet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IncreasingTriplet.IncreasingTriplet" />
       <module name="main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MergeTwoList.*" />
+          <option name="PATTERN" value="IncreasingTriplet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -228,13 +224,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ShuffleanArray.Solution" />
+    <configuration name="LengthOfLongestSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LengthOfLongestSubstring.LengthOfLongestSubstring" />
       <module name="main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ShuffleanArray.*" />
+          <option name="PATTERN" value="LengthOfLongestSubstring.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -286,19 +282,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MergeTwoList (1)" />
-      <item itemvalue="Application.Solution" />
-      <item itemvalue="Application.CountPrimes" />
       <item itemvalue="Application.HammingWeight" />
       <item itemvalue="Application.ThreeSum" />
+      <item itemvalue="Application.GroupAnagrams" />
+      <item itemvalue="Application.LengthOfLongestSubstring" />
+      <item itemvalue="Application.IncreasingTriplet" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IncreasingTriplet" />
+        <item itemvalue="Application.LengthOfLongestSubstring" />
+        <item itemvalue="Application.GroupAnagrams" />
         <item itemvalue="Application.ThreeSum" />
         <item itemvalue="Application.HammingWeight" />
-        <item itemvalue="Application.CountPrimes" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.MergeTwoList (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -498,68 +494,7 @@
     <MESSAGE value="32" />
     <option name="LAST_COMMIT_MESSAGE" value="32" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/leetcode/src/main/中级算法/ThreeSum/ThreeSum.java</url>
-          <line>57</line>
-          <properties class="ThreeSum.ThreeSum" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="tree.rtchild.rtchild" />
-      </configuration>
-    </watches-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/RemoveDuplicatesfromSortedArray26/RemoveDuplicates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/ImplementstrStr28/strStr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/DivideTwoIntegers29/Divide.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/SubstringwithConcatenationofAllWords30/FindSubstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/NextPermutation31/NextPermutation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="834">
-          <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/LongestValidParentheses32/LongestValidParentheses.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/ReverseNodesInKGroup25/ReverseKGroup.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -833,11 +768,59 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/ThreeSum/ThreeSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="57" column="38" lean-forward="true" selection-start-line="57" selection-start-column="38" selection-end-line="57" selection-end-column="38" />
+        <state relative-caret-position="211">
+          <caret line="57" column="39" selection-start-line="57" selection-start-column="39" selection-end-line="57" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/GroupAnagrams/GroupAnagrams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="55" column="7" selection-start-line="52" selection-start-column="4" selection-end-line="55" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/jdk/internal/util/Preconditions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/LongestPalindrome5/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="150" column="38" selection-start-line="150" selection-start-column="18" selection-end-line="150" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/LongestPalindrome/LongestPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/LengthOfLongestSubstring/LengthOfLongestSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/IncreasingTriplet/IncreasingTriplet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-127">
+          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
         </state>
       </provider>
     </entry>
