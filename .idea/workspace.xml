@@ -6,12 +6,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df8dcdf9-e25e-46b0-b043-4a6009aad962" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/中级算法/GenerateParenthesis/GenerateParenthesis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/中级算法/LetterCombinations/LetterCombinations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/中级算法/NumIslands/NumIslands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/中级算法/Permute/Permute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/中级算法/ExistWord/ExistWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/中级算法/SortColors/SortColors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/中级算法/Subsets/Subsets.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/ConnectTree/ConnectTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/ConnectTree/ConnectTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/Permute/Permute.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/Permute/Permute.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,38 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/LetterCombinations/LetterCombinations.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="29" column="23" lean-forward="true" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/GenerateParenthesis/GenerateParenthesis.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/Permute/Permute.java">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/SortColors/SortColors.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="159">
+              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -79,9 +51,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/leetcode/src/main/java/SwapNodesInPairs24/swapPairs.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/java/DivideTwoIntegers29/Divide.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/java/SubstringwithConcatenationofAllWords30/FindSubstring.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/java/NextPermutation31/NextPermutation.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/java/LongestValidParentheses32/LongestValidParentheses.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/java/SearchinRotatedSortedArray33/SearchinRotatedSortedArray.java" />
@@ -130,6 +99,9 @@
         <option value="$PROJECT_DIR$/leetcode/src/main/中级算法/LetterCombinations/LetterCombinations.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/中级算法/GenerateParenthesis/GenerateParenthesis.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/中级算法/Permute/Permute.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/中级算法/Subsets/Subsets.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/中级算法/ExistWord/ExistWord.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/中级算法/SortColors/SortColors.java" />
       </list>
     </option>
   </component>
@@ -182,7 +154,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545818705839" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545829180534" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
@@ -207,9 +179,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Permute">
+  <component name="RunManager" selected="Application.ExistWord">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExistWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExistWord.ExistWord" />
+      <module name="main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExistWord.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -242,20 +228,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumIslands" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumIslands.NumIslands" />
-      <module name="main" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="NumIslands.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Permute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Permute.Permute" />
       <module name="main" />
@@ -270,13 +242,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeLinkNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TreeLinkNode.TreeLinkNode" />
+    <configuration name="Subsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Subsets.Subsets" />
       <module name="main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TreeLinkNode.*" />
+          <option name="PATTERN" value="Subsets.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -314,19 +286,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TreeLinkNode" />
-      <item itemvalue="Application.NumIslands" />
       <item itemvalue="Application.LetterCombinations" />
       <item itemvalue="Application.GenerateParenthesis" />
       <item itemvalue="Application.Permute" />
+      <item itemvalue="Application.Subsets" />
+      <item itemvalue="Application.ExistWord" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExistWord" />
+        <item itemvalue="Application.Subsets" />
         <item itemvalue="Application.Permute" />
         <item itemvalue="Application.GenerateParenthesis" />
         <item itemvalue="Application.LetterCombinations" />
-        <item itemvalue="Application.NumIslands" />
-        <item itemvalue="Application.TreeLinkNode" />
       </list>
     </recent_temporary>
   </component>
@@ -415,7 +387,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19083156" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19083156" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -425,8 +397,8 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4967811" weight="0.32212582" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49785408" visible="true" weight="0.39587852" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4967811" visible="true" weight="0.32212582" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49785408" weight="0.39587852" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -539,10 +511,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/L_8_StringtoInteger_atoi/L_8_StringtoInteger(atoi).java" />
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/L_25_ReverseNodesink_Group/L_25_ReverseNodesink-Group.java" />
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/L_28_ImplementstrStr/L_28_ImplementstrStr().java" />
-    <entry file="file://$PROJECT_DIR$/Tree.xml" />
     <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_121/src.zip!/java/lang/NumberFormatException.java" />
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/Closest3numberSum16/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -928,11 +896,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/Permute/Permute.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
+        <state relative-caret-position="143">
           <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/Subsets/Subsets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="28" column="37" lean-forward="true" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="3316" column="16" selection-start-line="3316" selection-start-column="16" selection-end-line="3316" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/ExistWord/ExistWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="27" column="15" lean-forward="true" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/SortColors/SortColors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
         </state>
       </provider>
     </entry>
