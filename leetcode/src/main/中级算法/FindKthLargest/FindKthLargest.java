@@ -14,35 +14,64 @@ public class FindKthLargest {
         return nums[k-1];
     }
     public int findKthLargest_quick(int[] nums, int k) {
-
-        return nums[k-1];
+        return sort(nums,0,nums.length-1,nums.length-k);
     }
 
-    public void sort(int[] a,int low,int high){
-        int start = low;
-        int end = high;
-        int key = a[low];
-        while(end>start){
-            //从后往前比较
-            while(end>start&&a[end]>=key)  //如果没有比关键值小的，比较下一个，直到有比关键值小的交换位置，然后又从前往后比较
-                end--;
-            if(a[end]<=key){
-                int temp = a[end];
-                a[end] = a[start];
-                a[start] = temp;
+    public int sort(int[] nums, int low, int high, int k){
+        int left = low;
+        int right = high;
+        int key = nums[low];
+
+        while (left<right){
+            while ((left<right&&nums[right]>=key)) right--;
+            if (right>left) {
+                int temp = nums[left];
+                nums[left]=nums[right];
+                nums[right]=temp;
             }
-            //从前往后比较
-            while(end>start&&a[start]<=key)//如果没有比关键值大的，比较下一个，直到有比关键值大的交换位置
-                start++;
-            if(a[start]>=key){
-                int temp = a[start];
-                a[start] = a[end];
-                a[end] = temp;
+            while (left<right&&nums[left]<=key) left++;
+            if(left<right){
+                int temp = nums[left];
+                nums[left]=nums[right];
+                nums[right]=temp;
             }
-            //此时第一次循环比较结束，关键值的位置已经确定了。左边的值都比关键值小，右边的值都比关键值大，但是两边的顺序还有可能是不一样的，进行下面的递归调用
         }
-        //递归
-        if(start>low) sort(a,low,start-1);//左边序列。第一个索引位置到关键值索引-1
-        if(end<high) sort(a,end+1,high);//右边序列。从关键值索引+1到最后一个
+        if (left==k) return key;
+        if(left>k) return sort(nums,low,left-1, k);
+        return sort(nums,right+1,high, k);
+    }
+
+    public int findKthLargest_Heap(int[]nums,int k){
+        int len = nums.length;
+        for (int i = len/2; i>=0; i--) {
+            adjustHeap(nums,i,len);
+        }
+        for (int i = len-1; i >= len-k ; i--) {
+            int temp = nums[i];
+            nums[i] = nums[0];
+            nums[0] = temp;
+            adjustHeap(nums,0,i);
+        }
+        return nums[len-k];
+    }
+
+    private void adjustHeap(int[] nums, int parent, int len) {
+        int child = 2*parent+1;
+        int temp = nums[parent];
+        while(child<len){
+            if(child+1<len&&nums[child+1]>nums[child]) child+=1;
+            if(nums[parent]>=nums[child]) break;
+            else {
+                nums[parent] = nums[child];
+                nums[child] = temp;
+            }
+            parent = child;
+            child = 2*child+1;
+        }
+    }
+
+    public static void main(String[] args) {
+        FindKthLargest su = new FindKthLargest();
+
     }
 }
