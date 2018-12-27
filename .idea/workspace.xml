@@ -6,11 +6,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df8dcdf9-e25e-46b0-b043-4a6009aad962" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/中级算法/ExistWord/ExistWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/中级算法/SortColors/SortColors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/中级算法/Subsets/Subsets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/中级算法/FindKthLargest/FindKthLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/中级算法/QuickSort/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/中级算法/TopKFrequent/TopKFrequent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/Permute/Permute.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/Permute/Permute.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,11 +20,62 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/SortColors/SortColors.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
+            <state relative-caret-position="445">
+              <caret line="27" column="5" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/LongestPalindrome/LongestPalindrome.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="367">
+              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/LengthOfLongestSubstring/LengthOfLongestSubstring.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="263">
+              <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/TopKFrequent/TopKFrequent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-52">
+              <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/FindKthLargest/FindKthLargest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1118">
+              <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/QuickSort/QuickSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="523">
+              <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -51,9 +101,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/leetcode/src/main/java/NextPermutation31/NextPermutation.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/java/LongestValidParentheses32/LongestValidParentheses.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/java/SearchinRotatedSortedArray33/SearchinRotatedSortedArray.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/java/L_3_LongestSubstringWithoutRepeatingCharacters/L_3_LongestSubstringWithoutRepeatingCharacters.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/java/L_50_PowXN/L_50_Pow(x,n).java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/java/TreeForTest/TreeForTest.java" />
@@ -102,6 +149,9 @@
         <option value="$PROJECT_DIR$/leetcode/src/main/中级算法/Subsets/Subsets.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/中级算法/ExistWord/ExistWord.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/中级算法/SortColors/SortColors.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/中级算法/TopKFrequent/TopKFrequent.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/中级算法/FindKthLargest/FindKthLargest.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/中级算法/QuickSort/QuickSort.java" />
       </list>
     </option>
   </component>
@@ -154,7 +204,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545829180534" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545884182733" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
@@ -179,7 +229,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ExistWord">
+  <component name="RunManager" selected="Application.QuickSort">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -214,20 +264,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LetterCombinations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LetterCombinations.LetterCombinations" />
-      <module name="main" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LetterCombinations.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Permute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Permute.Permute" />
       <module name="main" />
@@ -235,6 +271,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Permute.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuickSort.QuickSort" />
+      <module name="main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="QuickSort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -286,19 +336,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LetterCombinations" />
       <item itemvalue="Application.GenerateParenthesis" />
       <item itemvalue="Application.Permute" />
       <item itemvalue="Application.Subsets" />
       <item itemvalue="Application.ExistWord" />
+      <item itemvalue="Application.QuickSort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.ExistWord" />
         <item itemvalue="Application.Subsets" />
         <item itemvalue="Application.Permute" />
         <item itemvalue="Application.GenerateParenthesis" />
-        <item itemvalue="Application.LetterCombinations" />
       </list>
     </recent_temporary>
   </component>
@@ -511,21 +561,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_121/src.zip!/java/lang/NumberFormatException.java" />
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/Closest3numberSum16/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/io/PrintStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-575">
-          <caret line="809" column="16" selection-start-line="809" selection-start-column="16" selection-end-line="809" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/MergekSortedLists23/MergeKLists.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="419">
@@ -742,23 +777,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/LongestPalindrome/LongestPalindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/LengthOfLongestSubstring/LengthOfLongestSubstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/IncreasingTriplet/IncreasingTriplet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="55">
@@ -930,8 +948,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/SortColors/SortColors.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
+        <state relative-caret-position="445">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/LongestPalindrome/LongestPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/LengthOfLongestSubstring/LengthOfLongestSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/TopKFrequent/TopKFrequent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-52">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/FindKthLargest/FindKthLargest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1118">
+          <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/QuickSort/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
         </state>
       </provider>
     </entry>
