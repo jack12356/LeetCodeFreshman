@@ -6,12 +6,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df8dcdf9-e25e-46b0-b043-4a6009aad962" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/中级算法/BinarySearch/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/中级算法/CanJump/CanJump.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/中级算法/SearchMatrix/SearchMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/中级算法/UniquePaths/UniquePaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/中级算法/Test/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/FindKthLargest/FindKthLargest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/FindKthLargest/FindKthLargest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/main/中级算法/TreeNode/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/中级算法/TreeNode/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/TreeNode/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/TreeNode/TreeNode.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,42 +20,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/SearchMatrix/SearchMatrix.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/CanJump/CanJump.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/UniquePaths/UniquePaths.java">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/TreeNode/TreeNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="12" selection-end-column="5" />
-              <folding>
-                <element signature="e#443#444#0" expanded="true" />
-                <element signature="e#496#497#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="627">
+              <caret line="87" column="61" lean-forward="true" selection-start-line="87" selection-start-column="61" selection-end-line="87" selection-end-column="61" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/BinarySearch/BinarySearch.java">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/Test/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="12" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="12" selection-end-column="5" />
+            <state>
+              <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -83,7 +59,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/leetcode/src/main/java/L_28_ImplementstrStr/L_28_ImplementstrStr().java" />
         <option value="$PROJECT_DIR$/Tree.xml" />
         <option value="$PROJECT_DIR$/leetcode/src/main/java/TreeForTest/TreeTest.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/java/Closest3numberSum16/Solution.java" />
@@ -113,7 +88,6 @@
         <option value="$PROJECT_DIR$/leetcode/src/main/中级算法/ListNode/ListNode.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/中级算法/AddTwoNumbers/AddTwoNumbers.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/中级算法/OddEvenList/OddEvenList.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/中级算法/TreeNode/TreeNode.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/中级算法/ZigZagLevalInOrder/ZigZagLevelInOrder.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/中级算法/BuildTree/BuildTree.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/中级算法/TreeLinkNode/TreeLinkNode.java" />
@@ -134,6 +108,8 @@
         <option value="$PROJECT_DIR$/leetcode/src/main/中级算法/SearchMatrix/SearchMatrix.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/中级算法/CanJump/CanJump.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/中级算法/UniquePaths/UniquePaths.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/中级算法/Test/Employee.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/中级算法/TreeNode/TreeNode.java" />
       </list>
     </option>
   </component>
@@ -150,7 +126,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1057" />
@@ -170,11 +146,6 @@
               <item name="LeetCodeFreshman" type="b2602c69:ProjectViewProjectNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="LeetCodeFreshman" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="中级算法" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -186,7 +157,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545989958472" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546522496056" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
@@ -211,7 +182,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UniquePaths">
+  <component name="RunManager" selected="Application.TreeNode">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -246,20 +217,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QuickSort.QuickSort" />
-      <module name="main" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="QuickSort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SearchMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SearchMatrix.SearchMatrix" />
       <module name="main" />
@@ -267,6 +224,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="SearchMatrix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TreeNode.TreeNode" />
+      <module name="main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TreeNode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -318,19 +289,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.QuickSort" />
       <item itemvalue="Application.FindKthLargest" />
       <item itemvalue="Application.HeapSort" />
       <item itemvalue="Application.SearchMatrix" />
       <item itemvalue="Application.UniquePaths" />
+      <item itemvalue="Application.TreeNode" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TreeNode" />
         <item itemvalue="Application.UniquePaths" />
         <item itemvalue="Application.SearchMatrix" />
         <item itemvalue="Application.HeapSort" />
         <item itemvalue="Application.FindKthLargest" />
-        <item itemvalue="Application.QuickSort" />
       </list>
     </recent_temporary>
   </component>
@@ -416,7 +387,7 @@
     <option name="totallyTimeSpent" value="113044000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19083156" />
@@ -543,26 +514,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/ValidBST/ValidBST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/SymmetricTree/SymmetricTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="10" column="27" selection-start-line="6" selection-end-line="18" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/SortedArrayToBST/SortedArrayToBST.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
@@ -739,18 +690,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/TreeNode/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="32" column="18" lean-forward="true" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#353#363#0" expanded="true" />
-            <element signature="e#417#427#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -951,17 +890,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/BinarySearch/BinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/SearchMatrix/SearchMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
-          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -974,12 +906,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/UniquePaths/UniquePaths.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="12" selection-end-column="5" />
+        <state relative-caret-position="338">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="e#443#444#0" expanded="true" />
             <element signature="e#496#497#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/BinarySearch/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="5" selection-start-line="3" selection-start-column="4" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/LengthOfLIS/LengthOfLIS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="30" column="21" lean-forward="true" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/Test/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/TreeNode/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="87" column="61" lean-forward="true" selection-start-line="87" selection-start-column="61" selection-end-line="87" selection-end-column="61" />
         </state>
       </provider>
     </entry>
