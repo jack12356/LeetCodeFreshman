@@ -6,75 +6,59 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df8dcdf9-e25e-46b0-b043-4a6009aad962" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/高级算法/ProductExceptSelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/高级算法/SpiralOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/高级算法/FirstMissingPositive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/高级算法/FourSumCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/高级算法/GameOfLife.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/高级算法/MaxArea.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/AToI/AToI.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/AToI/AToI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/AddTwoNumbers2/AddTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/AddTwoNumbers2/AddTwoNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/CircleList.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/CircleList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/ClimbStairs/ClimbStairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/ClimbStairs/ClimbStairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/Closest3numberSum16/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/Closest3numberSum16/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/CommonStr/CommonStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/CommonStr/CommonStr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/ContainerWithMostWater11/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/ContainerWithMostWater11/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/CountAndSay/CountAndSay.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/CountAndSay/CountAndSay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/CountPrimes/CountPrimes.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/CountPrimes/CountPrimes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/DeleteListNodeN/DeleteListNodeN.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/DeleteListNodeN/DeleteListNodeN.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/DeleteNodeList/DeleteNodeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/DeleteNodeList/DeleteNodeList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/Divide29/Devide.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/Divide29/Devide.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/DivideTwoIntegers29/Divide.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/DivideTwoIntegers29/Divide.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/FirstBadVersion/FirstBadVersion.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/FirstBadVersion/FirstBadVersion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/FizzBuzz/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/FizzBuzz/FizzBuzz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/FourSum18/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/FourSum18/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/FourSumOfTarget18/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/FourSumOfTarget18/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/GenerateParentheses22/Generate.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/GenerateParentheses22/Generate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/HammingWeight/HammingWeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/HammingWeight/HammingWeight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/ImplementstrStr28/strStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/ImplementstrStr28/strStr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/IntegertoRoman12/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/IntegertoRoman12/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/LetterCombinationsofaPhoneNumber17/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/LetterCombinationsofaPhoneNumber17/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/ListNode/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/ListNode/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/LongestCommonPrefix14/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/LongestCommonPrefix14/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/LongestPalindrome5/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/LongestPalindrome5/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/LongestSubstring3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/LongestSubstring3/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/LongestSubstring3/SolutionByLeetCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/LongestSubstring3/SolutionByLeetCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/LongestSubstring3/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/LongestSubstring3/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/LongestValidParentheses32/LongestValidParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/LongestValidParentheses32/LongestValidParentheses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/MaxSubArray/MaxSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/MaxSubArray/MaxSubArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/MedianofTwoSortedArrays4/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/MedianofTwoSortedArrays4/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/MergeTwoList/MergeTwoList.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/MergeTwoList/MergeTwoList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/MergeTwoRankedList/MergeTwoList.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/MergeTwoRankedList/MergeTwoList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/MergeTwoSortedLists21/MergeTwoLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/MergeTwoSortedLists21/MergeTwoLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/MergekSortedLists23/MergeKLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/MergekSortedLists23/MergeKLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/MinStack/MinStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/MinStack/MinStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/NextPermutation31/NextPermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/NextPermutation31/NextPermutation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/PalindromeList21/PalindromeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/PalindromeList21/PalindromeList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/PalindromeNumber9/Solotion.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/PalindromeNumber9/Solotion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/PasikaTriple/PasikaTriple.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/PasikaTriple/PasikaTriple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/PowerOfThree/PowerOfThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/PowerOfThree/PowerOfThree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/RemoveDuplicatesfromSortedArray26/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/RemoveDuplicatesfromSortedArray26/RemoveDuplicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/RemoveElement27/RemoveElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/RemoveElement27/RemoveElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/RemoveNthNode19/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/RemoveNthNode19/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/ReverseInteger7/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/ReverseInteger7/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/ReverseList/ReverseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/ReverseList/ReverseList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/ReverseNodesInKGroup25/ReverseKGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/ReverseNodesInKGroup25/ReverseKGroup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/SearchforaRange34/SearchforaRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/SearchforaRange34/SearchforaRange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/SearchinRotatedSortedArray33/SearchinRotatedSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/SearchinRotatedSortedArray33/SearchinRotatedSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/ShuffleanArray/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/ShuffleanArray/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/SortedArrayToBST/SortedArrayToBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/SortedArrayToBST/SortedArrayToBST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/StrStr/StrStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/StrStr/StrStr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/StringVaild20/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/StringVaild20/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/StringtoInteger8/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/StringtoInteger8/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/SubstringwithConcatenationofAllWords30/FindSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/SubstringwithConcatenationofAllWords30/FindSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/SwapNodesInPairs24/swapPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/SwapNodesInPairs24/swapPairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/SymmetricTree/SymmetricTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/SymmetricTree/SymmetricTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/ThreeSumOfZero15/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/ThreeSumOfZero15/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/TreeForTest/TreeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/TreeForTest/TreeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/TreeNode/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/TreeNode/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/Tree_BFS/TreeBfs.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/Tree_BFS/TreeBfs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/TwoSum1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/TwoSum1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/ValidBST/ValidBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/ValidBST/ValidBST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/ValidBrackets/ValidBrackets.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/ValidBrackets/ValidBrackets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/ZigZagConversion6/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/ZigZagConversion6/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/AddTwoNumbers/AddTwoNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/BinarySearch/BinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/BuildTree/BuildTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/CanJump/CanJump.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/CoinChange/CoinChange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/ConnectTree/ConnectTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/EvalRPN/EvalRPN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/ExistWord/ExistWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/FindKthLargest/FindKthLargest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/FindPeakElement/FindPeakElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/FractionToDecimal/FractionToDecimal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/GenerateParenthesis/GenerateParenthesis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/GetIntersectionNode/GetIntersectionNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/GroupAnagrams/GroupAnagrams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/HeapSort/HeapSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/IncreasingTriplet/IncreasingTriplet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/InorderTraversal/InorderTraversal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/Interval/Interval.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/IsHappy/IsHappy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/KthSmallestTree/KthSmallestTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/LengthOfLIS/LengthOfLIS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/LengthOfLongestSubstring/LengthOfLongestSubstring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/LetterCombinations/LetterCombinations$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/LetterCombinations/LetterCombinations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/ListNode/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/LongestPalindrome/LongestPalindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/MergeInterval/MergeInterval$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/MergeInterval/MergeInterval$IntervalComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/MergeInterval/MergeInterval.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/NumIslands/NumIslands.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/OddEvenList/OddEvenList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/Permute/Permute.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/QuickSort/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/RandomizedSet/RandomizedSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/SearchMatrix/SearchMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/SearchRange/SearchRange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/SearchRotateInt/SearchRotateInt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/SortColors/SortColors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/Subsets/Subsets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/Test/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/ThreeSum/ThreeSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/TitleToNumber/TitleToNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/TopKFrequent/TopKFrequent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/TrailingZeroes/TrailingZeroes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/TreeLinkNode/TreeLinkNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/TreeNode/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/UniquePaths/UniquePaths.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/ZigZagLevalInOrder/ZigZagLevelInOrder.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -86,13 +70,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/SpiralOrder.java">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/FirstMissingPositive.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="185">
+              <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -118,10 +99,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/leetcode/src/main/java/SortedArrayToBST/SortedArrayToBST.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/java/MergeTwoList/MergeTwoList.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/java/ShuffleanArray/Solution.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/java/MinStack/MinStack.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/java/FizzBuzz/FizzBuzz.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/java/CountPrimes/CountPrimes.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/java/PowerOfThree/PowerOfThree.java" />
@@ -169,6 +146,10 @@
         <option value="$PROJECT_DIR$/leetcode/src/main/中级算法/LeastInterval/LeastInterval.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/ProductExceptSelf.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/SpiralOrder.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/FourSumCount.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/MaxArea.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/GameOfLife.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/FirstMissingPositive.java" />
       </list>
     </option>
   </component>
@@ -221,7 +202,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546853744608" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546870034052" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
@@ -246,7 +227,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EvalRPN">
+  <component name="RunManager" selected="Application.FirstMissingPositive">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -267,49 +248,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FractionToDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FractionToDecimal.FractionToDecimal" />
+    <configuration name="FirstMissingPositive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FirstMissingPositive" />
       <module name="main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="FractionToDecimal.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsHappy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IsHappy.IsHappy" />
+    <configuration name="FourSumCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FourSumCount" />
       <module name="main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="IsHappy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomizedSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RandomizedSet.RandomizedSet" />
+    <configuration name="GameOfLife" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GameOfLife" />
       <module name="main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="RandomizedSet.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="MaxArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaxArea" />
+      <module name="main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeNode" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TreeNode.TreeNode" />
       <module name="main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -354,18 +325,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.TreeNode" />
-      <item itemvalue="Application.RandomizedSet" />
-      <item itemvalue="Application.IsHappy" />
-      <item itemvalue="Application.FractionToDecimal" />
       <item itemvalue="Application.EvalRPN" />
+      <item itemvalue="Application.FourSumCount" />
+      <item itemvalue="Application.MaxArea" />
+      <item itemvalue="Application.GameOfLife" />
+      <item itemvalue="Application.FirstMissingPositive" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FirstMissingPositive" />
+        <item itemvalue="Application.GameOfLife" />
+        <item itemvalue="Application.MaxArea" />
+        <item itemvalue="Application.FourSumCount" />
         <item itemvalue="Application.EvalRPN" />
-        <item itemvalue="Application.FractionToDecimal" />
-        <item itemvalue="Application.IsHappy" />
-        <item itemvalue="Application.RandomizedSet" />
-        <item itemvalue="Application.TreeNode" />
       </list>
     </recent_temporary>
   </component>
@@ -454,7 +426,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19083156" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19083156" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -464,7 +436,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4967811" visible="true" weight="0.32212582" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4967811" visible="true" weight="0.32212582" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49785408" weight="0.39587852" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -575,38 +547,16 @@
           <properties />
           <option name="timeStamp" value="21" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/main/高级算法/FirstMissingPositive.java</url>
+          <line>4</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/jdk/internal/util/Preconditions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="63" selection-start-line="63" selection-end-line="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/初级算法/LongestPalindrome5/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="150" column="38" selection-start-line="150" selection-start-column="18" selection-end-line="150" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/ListNode/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/AddTwoNumbers/AddTwoNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1040">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/OddEvenList/OddEvenList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -998,11 +948,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/SpiralOrder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="39" />
+        <state relative-caret-position="260">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/FourSumCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1131">
+          <caret line="53" column="5" lean-forward="true" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/GameOfLife.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="39" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/MaxArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/FirstMissingPositive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
         </state>
       </provider>
     </entry>
