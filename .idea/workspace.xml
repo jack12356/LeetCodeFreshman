@@ -6,59 +6,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df8dcdf9-e25e-46b0-b043-4a6009aad962" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/高级算法/FirstMissingPositive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/高级算法/FourSumCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/高级算法/GameOfLife.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/高级算法/MaxArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/高级算法/FindDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/高级算法/LongestConsecutive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/AddTwoNumbers/AddTwoNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/BinarySearch/BinarySearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/BuildTree/BuildTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/CanJump/CanJump.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/CoinChange/CoinChange.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/ConnectTree/ConnectTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/EvalRPN/EvalRPN.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/ExistWord/ExistWord.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/FindKthLargest/FindKthLargest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/FindPeakElement/FindPeakElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/FractionToDecimal/FractionToDecimal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/GenerateParenthesis/GenerateParenthesis.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/GetIntersectionNode/GetIntersectionNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/GroupAnagrams/GroupAnagrams.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/HeapSort/HeapSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/IncreasingTriplet/IncreasingTriplet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/InorderTraversal/InorderTraversal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/Interval/Interval.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/IsHappy/IsHappy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/KthSmallestTree/KthSmallestTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/LengthOfLIS/LengthOfLIS.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/LengthOfLongestSubstring/LengthOfLongestSubstring.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/LetterCombinations/LetterCombinations$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/LetterCombinations/LetterCombinations.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/ListNode/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/LongestPalindrome/LongestPalindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/MergeInterval/MergeInterval$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/MergeInterval/MergeInterval$IntervalComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/MergeInterval/MergeInterval.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/NumIslands/NumIslands.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/OddEvenList/OddEvenList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/Permute/Permute.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/QuickSort/QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/RandomizedSet/RandomizedSet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/SearchMatrix/SearchMatrix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/SearchRange/SearchRange.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/SearchRotateInt/SearchRotateInt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/SortColors/SortColors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/Subsets/Subsets.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/Test/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/ThreeSum/ThreeSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/TitleToNumber/TitleToNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/TopKFrequent/TopKFrequent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/TrailingZeroes/TrailingZeroes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/TreeLinkNode/TreeLinkNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/TreeNode/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/UniquePaths/UniquePaths.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/ZigZagLevalInOrder/ZigZagLevelInOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/FirstMissingPositive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/FirstMissingPositive.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -69,11 +20,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/FirstMissingPositive.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/LongestConsecutive.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+            <state relative-caret-position="104">
+              <caret line="10" column="41" lean-forward="true" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/FindDuplicate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -99,8 +59,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/leetcode/src/main/java/FizzBuzz/FizzBuzz.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/java/CountPrimes/CountPrimes.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/java/PowerOfThree/PowerOfThree.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/java/HammingWeight/HammingWeight.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/java/PasikaTriple/PasikaTriple.java" />
@@ -150,6 +108,8 @@
         <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/MaxArea.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/GameOfLife.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/FirstMissingPositive.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/LongestConsecutive.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/FindDuplicate.java" />
       </list>
     </option>
   </component>
@@ -166,7 +126,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1057" />
@@ -202,7 +162,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546870034052" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546918746085" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
@@ -227,23 +187,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FirstMissingPositive">
+  <component name="RunManager" selected="Application.LongestConsecutive">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EvalRPN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EvalRPN.EvalRPN" />
-      <module name="main" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="EvalRPN.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -266,6 +212,14 @@
     </configuration>
     <configuration name="GameOfLife" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GameOfLife" />
+      <module name="main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestConsecutive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LongestConsecutive" />
       <module name="main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -325,19 +279,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.TreeNode" />
-      <item itemvalue="Application.EvalRPN" />
       <item itemvalue="Application.FourSumCount" />
       <item itemvalue="Application.MaxArea" />
       <item itemvalue="Application.GameOfLife" />
       <item itemvalue="Application.FirstMissingPositive" />
+      <item itemvalue="Application.LongestConsecutive" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LongestConsecutive" />
         <item itemvalue="Application.FirstMissingPositive" />
         <item itemvalue="Application.GameOfLife" />
         <item itemvalue="Application.MaxArea" />
         <item itemvalue="Application.FourSumCount" />
-        <item itemvalue="Application.EvalRPN" />
       </list>
     </recent_temporary>
   </component>
@@ -423,10 +377,10 @@
     <option name="totallyTimeSpent" value="113044000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19083156" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19083156" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -436,7 +390,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4967811" visible="true" weight="0.32212582" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4967811" visible="true" weight="0.32212582" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49785408" weight="0.39587852" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -547,30 +501,10 @@
           <properties />
           <option name="timeStamp" value="21" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/leetcode/src/main/高级算法/FirstMissingPositive.java</url>
-          <line>4</line>
-          <properties />
-          <option name="timeStamp" value="67" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/OddEvenList/OddEvenList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/ZigZagLevalInOrder/ZigZagLevelInOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/BuildTree/BuildTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="416">
@@ -985,8 +919,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/FirstMissingPositive.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        <state relative-caret-position="52">
+          <caret line="2" column="37" lean-forward="true" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/LongestConsecutive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="10" column="41" lean-forward="true" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/FindDuplicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
         </state>
       </provider>
     </entry>
