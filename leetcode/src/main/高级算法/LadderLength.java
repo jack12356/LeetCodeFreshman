@@ -2,7 +2,7 @@
 import java.util.*;
 
 public class LadderLength {
-    public int ladderLength(String beginWord, String endWord, List<String> wordList) {
+    public int ladderLength_2(String beginWord, String endWord, List<String> wordList) {
         LinkedList<String> queue = new LinkedList<>();
         HashMap<String,Integer> map = new HashMap<>();
         queue.add(beginWord);
@@ -28,6 +28,31 @@ public class LadderLength {
         }
         return 0;
     }
+    public int ladderLength(String beginWord, String endWord, List<String> wordList) {
+        LinkedList<String> queue = new LinkedList<String>();
+        HashMap<String, Integer> map = new HashMap<>();
+        queue.add(beginWord);
+        map.put(beginWord, 1);
+        while (!queue.isEmpty()){
+            String levelWord = queue.poll();
+            Iterator it = wordList.iterator();
+            while (it.hasNext()){
+                 String word = (String) it.next();
+                 if(word.equals(levelWord)){
+                     it.remove();
+                     continue;
+                 }
+                 if (canTrans(levelWord,word)){
+                     if (word.equals(endWord)) return map.get(levelWord)+1;
+                     queue.add(word);
+                     map.put(word,map.get(levelWord)+1);
+                     it.remove();
+                 }
+            }
+
+        }
+        return 0;
+    }
 
     private boolean canTrans(String levelword, String word) {
         int count = 0;
@@ -40,6 +65,10 @@ public class LadderLength {
 
 
     public static void main(String[] args) {
-
+       String beginword =  "hit";
+       String endword = "cog";
+       List<String> lists = new ArrayList<>(Arrays.asList("hot", "dot", "dog", "lot", "log", "cog"));
+       LadderLength su = new LadderLength();
+        System.out.println(su.ladderLength(beginword, endword, lists));
     }
 }
