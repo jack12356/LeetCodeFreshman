@@ -6,13 +6,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df8dcdf9-e25e-46b0-b043-4a6009aad962" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/高级算法/LowestCommonAncestor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/高级算法/MaxPathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/高级算法/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/高级算法/CanFinish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/高级算法/FindCircleNum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/高级算法/LadderLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/高级算法/LadderLength.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/LadderLength.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/LadderLength.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/Solve.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/Solve.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,11 +19,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/MaxPathSum.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/FindCircleNum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
+            <state relative-caret-position="520">
+              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/CanFinish.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -58,8 +66,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/leetcode/src/main/中级算法/OddEvenList/OddEvenList.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/中级算法/ZigZagLevalInOrder/ZigZagLevelInOrder.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/中级算法/BuildTree/BuildTree.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/中级算法/TreeLinkNode/TreeLinkNode.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/中级算法/ConnectTree/ConnectTree.java" />
@@ -109,6 +115,8 @@
         <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/TreeNode.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/LowestCommonAncestor.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/MaxPathSum.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/FindCircleNum.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/CanFinish.java" />
       </list>
     </option>
   </component>
@@ -166,7 +174,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547363513387" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547371604682" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
@@ -191,9 +199,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LadderLength">
+  <component name="RunManager" selected="Application.CanFinish">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CanFinish" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CanFinish" />
+      <module name="main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -216,14 +232,6 @@
     </configuration>
     <configuration name="MergeKLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MergeKLists" />
-      <module name="main" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MinWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MinWindow" />
       <module name="main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -286,16 +294,16 @@
       <item itemvalue="Application.CopyRandomList" />
       <item itemvalue="Application.LadderLength" />
       <item itemvalue="Application.MergeKLists" />
-      <item itemvalue="Application.MinWindow" />
       <item itemvalue="Application.Solve" />
+      <item itemvalue="Application.CanFinish" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CanFinish" />
         <item itemvalue="Application.LadderLength" />
         <item itemvalue="Application.Solve" />
         <item itemvalue="Application.CopyRandomList" />
         <item itemvalue="Application.MergeKLists" />
-        <item itemvalue="Application.MinWindow" />
       </list>
     </recent_temporary>
   </component>
@@ -384,7 +392,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19936034" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19936034" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -394,7 +402,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4967811" visible="true" weight="0.32212582" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4967811" visible="true" weight="0.32212582" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49785408" weight="0.39587852" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -521,20 +529,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/QuickSort/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/HeapSort/HeapSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/FindKthLargest/FindKthLargest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="832">
@@ -936,6 +930,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
           <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/FindCircleNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/CanFinish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
