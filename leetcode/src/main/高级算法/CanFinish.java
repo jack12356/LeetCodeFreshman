@@ -65,13 +65,14 @@ public class CanFinish {
                 }
             }
         }
-        return count == numCourses ? res : new int[numCourses]; // 如果所有节点是否都访问了，如果是说明成功
+        return count == numCourses ? res : new int[0]; // 如果所有节点是否都访问了，如果是说明成功
     }
 
     public static void main(String[] args) {
         CanFinish su = new CanFinish();
-        int[][] prerequisites = new int[1][];
+        int[][] prerequisites = new int[2][];
         prerequisites[0] = new int[]{1,0};
-        System.out.println(su.canFinish(2, prerequisites));
+        prerequisites[1] = new int[]{0,1};
+        System.out.println(Arrays.toString(su.findOrder(2, prerequisites)));
     }
 }
