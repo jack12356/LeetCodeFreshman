@@ -6,15 +6,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df8dcdf9-e25e-46b0-b043-4a6009aad962" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/高级算法/LRUCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/高级算法/LargestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/高级算法/MedianFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/高级算法/NestedInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/高级算法/NestedIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/高级算法/Trie_own.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/高级算法/MaxPoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/高级算法/ReconstructQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/高级算法/Trap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/高级算法/Trie.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/高级算法/Trie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/Trie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/Trie.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,20 +19,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/LargestNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="780">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -64,9 +46,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/leetcode/src/main/中级算法/Test/Employee.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/中级算法/TreeNode/TreeNode.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/中级算法/RandomizedSet/RandomizedSet.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/中级算法/IsHappy/IsHappy.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/中级算法/TrailingZeroes/TrailingZeroes.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/中级算法/TitleToNumber/TitleToNumber.java" />
@@ -115,6 +94,9 @@
         <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/NestedIterator.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/MedianFinder.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/LargestNumber.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/MaxPoints.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/ReconstructQueue.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/Trap.java" />
       </list>
     </option>
   </component>
@@ -144,7 +126,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -162,17 +143,22 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548067236627" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548157441154" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/leetcode/src/main/高级算法/Slope.java" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/leetcode/src/main/高级算法/Slope.java" />
   </component>
   <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="LongestPalindrome" />
     </key>
@@ -192,7 +178,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LargestNumber">
+  <component name="RunManager" selected="Application.Trap">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -209,6 +195,14 @@
     </configuration>
     <configuration name="LargestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LargestNumber" />
+      <module name="main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Trap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Trap" />
       <module name="main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -239,14 +233,6 @@
     </configuration>
     <configuration name="Trie_own" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Trie_own" />
-      <module name="main" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WiggleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WiggleSort" />
       <module name="main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -285,18 +271,18 @@
     <list>
       <item itemvalue="Application.TreeNode" />
       <item itemvalue="Application.Trie_own" />
-      <item itemvalue="Application.WiggleSort" />
       <item itemvalue="Application.KthSmallest" />
       <item itemvalue="Application.Trie" />
       <item itemvalue="Application.LargestNumber" />
+      <item itemvalue="Application.Trap" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Trap" />
         <item itemvalue="Application.LargestNumber" />
         <item itemvalue="Application.Trie" />
         <item itemvalue="Application.Trie_own" />
         <item itemvalue="Application.KthSmallest" />
-        <item itemvalue="Application.WiggleSort" />
       </list>
     </recent_temporary>
   </component>
@@ -383,9 +369,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16950959" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17110874" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -395,7 +380,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4967811" visible="true" weight="0.32104123" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4967811" weight="0.32104123" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49785408" weight="0.39479393" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -528,37 +513,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/FirstMissingPositive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="37" lean-forward="true" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/MaxSlidingWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-          <folding>
-            <element signature="e#201#210#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/FindDuplicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/LongestConsecutive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/ListNode/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="393">
@@ -853,13 +807,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/NestedInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="60" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="6" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/MedianFinder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
@@ -874,10 +821,53 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/LargestNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="67">
+          <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/MaxPoints.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="32" column="40" lean-forward="true" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#408#438#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/Slope.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/NestedInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="60" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="6" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/ReconstructQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="2" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/Trap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="35" column="26" lean-forward="true" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+          <folding>
+            <element signature="e#54#55#0" expanded="true" />
+            <element signature="e#81#82#0" expanded="true" />
           </folding>
         </state>
       </provider>
