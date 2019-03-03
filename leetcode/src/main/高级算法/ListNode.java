@@ -1,6 +1,6 @@
 public class ListNode {
-    public int val;
-    public ListNode next;
+    int val;
+    ListNode next;
     public ListNode(int x) { val = x; }
 
     public void showList(){

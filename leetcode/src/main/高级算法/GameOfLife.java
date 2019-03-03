@@ -36,7 +36,7 @@ public class GameOfLife {
     }
 
     private int add(int[][] board, int i, int j) {
-        return (i>=0&&i<board.length&&j>=0&&j<board[0].length&&board[i][j]>0) ? 1:0;
+        return (i >= 0 && i < board.length && j >= 0 && j < board[0].length && board[i][j] > 0) ? 1 : 0;
     }
 
     public static void main(String[] args) {
