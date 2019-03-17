@@ -5,7 +5,18 @@
     <bookmark url="file://$PROJECT_DIR$/leetcode/src/main/初级算法/SwapNodesInPairs24/swapPairs.java" line="38" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df8dcdf9-e25e-46b0-b043-4a6009aad962" name="Default" comment="" />
+    <list default="true" id="df8dcdf9-e25e-46b0-b043-4a6009aad962" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/Others/DropEggs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/Others/GetKeys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/Others/Multiple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/Others/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/高级算法/CanCompleteCircuit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/main/main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/main/高级算法/MinWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/高级算法/MinWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/FindCircleNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/FindCircleNum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/FindTargetSumWays.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,32 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/FindCircleNum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/TotalNQueens.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="36" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/SolveNQueens.java">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/Others/DropEggs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="32" column="47" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="442">
+              <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -72,18 +62,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/leetcode/src/main/中级算法/MajorityElement/MajorityElement.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/中级算法/LeastInterval/LeastInterval.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/ProductExceptSelf.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/SpiralOrder.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/FourSumCount.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/MaxArea.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/GameOfLife.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/FirstMissingPositive.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/LongestConsecutive.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/FindDuplicate.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/MaxSlidingWindow.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/MinWindow.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/MergeKLists.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/SortList.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/RandomListNode.java" />
@@ -123,6 +106,13 @@
         <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/FindCircleNum.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/TotalNQueens.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/SolveNQueens.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/MinWindow.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/CanCompleteCircuit.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/Others/Zhuhe.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/Others/Test.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/Others/Multiple.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/Others/GetKeys.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/Others/DropEggs.java" />
       </list>
     </option>
   </component>
@@ -163,6 +153,11 @@
             <path>
               <item name="LeetCodeFreshman" type="b2602c69:ProjectViewProjectNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="Others" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeFreshman" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="高级算法" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -175,7 +170,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551668879594" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552814654875" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/leetcode/src/main/高级算法/Slope.java" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
@@ -204,39 +199,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FindTargetSumWays">
+  <component name="RunManager" selected="Application.DropEggs">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindTargetSumWays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindTargetSumWays" />
+    <configuration name="DropEggs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DropEggs" />
       <module name="main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LargestNumber" />
+    <configuration name="Multiple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Multiple" />
       <module name="main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ListNode" />
+    <configuration name="Mutiple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mutiple" />
       <module name="main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Trap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Trap" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -257,8 +252,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Trie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Trie" />
+    <configuration name="Zhuhe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zhuhe" />
       <module name="main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -296,19 +291,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.TreeNode" />
-      <item itemvalue="Application.LargestNumber" />
-      <item itemvalue="Application.Trap" />
-      <item itemvalue="Application.Trie" />
-      <item itemvalue="Application.ListNode" />
-      <item itemvalue="Application.FindTargetSumWays" />
+      <item itemvalue="Application.Zhuhe" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Mutiple" />
+      <item itemvalue="Application.Multiple" />
+      <item itemvalue="Application.DropEggs" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FindTargetSumWays" />
-        <item itemvalue="Application.ListNode" />
-        <item itemvalue="Application.Trap" />
-        <item itemvalue="Application.LargestNumber" />
-        <item itemvalue="Application.Trie" />
+        <item itemvalue="Application.DropEggs" />
+        <item itemvalue="Application.Multiple" />
+        <item itemvalue="Application.Mutiple" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Zhuhe" />
       </list>
     </recent_temporary>
   </component>
@@ -395,9 +390,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17750533" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18656716" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -536,71 +530,22 @@
           <properties />
           <option name="timeStamp" value="26" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/main/高级算法/CanCompleteCircuit.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/main/Others/Multiple.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/初级算法/MergeTwoRankedList/MergeTwoList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="28" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="28" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/MergeKLists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/SortList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <element signature="method#mergeTwoLists#0;class#SortList#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/CopyRandomList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" column="63" lean-forward="true" selection-start-line="1" selection-start-column="63" selection-end-line="1" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Iterator.java" />
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/LinkedList.java" />
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/LadderLength.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="471">
-          <caret line="46" column="27" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
-          <folding>
-            <element signature="method#ladderLength#0;class#LadderLength#0" />
-            <element signature="e#1125#1133#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/Solve.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-78">
-          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/中级算法/TreeNode/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="92" column="1" lean-forward="true" selection-start-line="3" selection-end-line="92" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1378">
@@ -887,13 +832,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/FindCircleNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/TotalNQueens.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
@@ -903,11 +841,82 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/SolveNQueens.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="32" column="47" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
+        <state relative-caret-position="494">
+          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/MinWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/Others/Zhuhe.java" />
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/CanCompleteCircuit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/FindCircleNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/Others/Multiple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="134" column="52" selection-start-line="129" selection-start-column="39" selection-end-line="134" selection-end-column="52" />
+          <folding>
+            <element signature="e#4453#4454#0" expanded="true" />
+            <element signature="e#4505#4506#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/Others/GetKeys.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1248">
+          <caret line="48" column="39" selection-start-line="48" selection-start-column="39" selection-end-line="48" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/Others/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="13" column="36" lean-forward="true" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/Others/DropEggs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
         </state>
       </provider>
     </entry>

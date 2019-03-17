@@ -1,6 +1,6 @@
 public class MinWindow {
     public static String minWindow(String s, String t) {
-        int[] nums = new int[128];
+        int []nums = new int[128];
         int count = 0;
         int end = 0;
         int st = 0;
