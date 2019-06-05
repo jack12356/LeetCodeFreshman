@@ -5,6 +5,7 @@ public class DropEggs {
         System.out.println(test.superEggDrop(2,100));
     }
     public int superEggDrop(int K, int N) {
+
         if(K==1) return N;
         if(N==1) return 1;
         int [][]floor = new int[K+1][N+1];      // 只针对N遍历之后每一层

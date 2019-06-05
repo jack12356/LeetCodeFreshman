@@ -3,9 +3,9 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/初级算法" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/高级算法" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Huawei" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Others" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode其他题目" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -44,7 +44,7 @@ public class ValidBST {
     }
 }
 
-//class Solution {
+//class Solution1 {
 //
 //    public boolean isValidBST(TreeNode root) {
 //        if (root == null) return true;
