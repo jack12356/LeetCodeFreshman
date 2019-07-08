@@ -6,165 +6,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df8dcdf9-e25e-46b0-b043-4a6009aad962" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/Huawei/FindPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/Huawei/Min_Path.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/Huawei/Password.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/Huawei/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/Others/KickStart/RoundB2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/Others/KickStart/RoundB3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/Others/KickStart/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/Others/KickStart/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/Others/MaxCoins.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/Others/ModY.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/Others/NumDistinct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/Others/Pow2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/Others/Reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/Others/ZuHe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/PinDuoDuo/DiffSock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/PinDuoDuo/DiffWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/PinDuoDuo/MaxMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/PinDuoDuo/MinProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/PinDuoDuo/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/leetcode其他题目/ChangeMoney.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/leetcode其他题目/ChangeMoney2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/leetcode其他题目/ValueTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/ByteDance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/ByteDance/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/ByteDance/Reverse2ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/leetcode其他题目/CountDays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/leetcode其他题目/MaxDiv.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/Others/DropEggs.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/Others/DropEggs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/Others/Multiple.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/Others/Multiple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/Others/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/Others/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leetcode/src/main/main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/初级算法/ValidBST/ValidBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/初级算法/ValidBST/ValidBST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/AddTwoNumbers2/AddTwoNumbers$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/AddTwoNumbers2/AddTwoNumbers$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/AddTwoNumbers2/AddTwoNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/BinaryIndexTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/CanCompleteCircuit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/CanFinish.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/CircleList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/ClimbStairs/ClimbStairs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/Closest3numberSum16/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/CommonStr/CommonStr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/ContainerWithMostWater11/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/CopyRandomList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/CountAndSay/CountAndSay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/CountPrimes/CountPrimes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/CountSmaller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/DeleteListNodeN/DeleteListNodeN.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/DeleteNodeList/DeleteNodeList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/Divide29/Devide.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/DivideTwoIntegers29/Divide.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/DropEggs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/DropEggs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/FindCircleNum$Trie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/FindCircleNum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/FindDuplicate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/FindMedianSortedArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/FindWords.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/FirstBadVersion/FirstBadVersion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/FirstMissingPositive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/FizzBuzz/FizzBuzz.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/FourSum18/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/FourSumCount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/FourSumOfTarget18/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/GameOfLife.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/GenerateParentheses22/Generate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/HammingWeight/HammingWeight.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/ImplementstrStr28/strStr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/IntegertoRoman12/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/Intersect/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/IsMatch$SuffixTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/IsMatch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/KthSmallest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/LRUCache.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/LadderLength.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/LargestNumber$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/LargestNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/LetterCombinationsofaPhoneNumber17/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/ListNode/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/LongestCommonPrefix14/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/LongestConsecutive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/LongestIncreasingPath.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/LongestPalindrome5/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/LongestSubstring3/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/LongestSubstring3/SolutionByLeetCode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/LongestSubstring3/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/LongestValidParentheses32/LongestValidParentheses.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/LowestCommonAncestor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/MaxArea.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/MaxPathSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/MaxPoints$Point.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/MaxPoints.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/MaxProfit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/MaxSlidingWindow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/MaxSubArray/MaxSubArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/MedianFinder$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/MedianFinder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/MedianofTwoSortedArrays4/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/MergeKLists.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/MergeTwoList/MergeTwoList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/MergeTwoRankedList/MergeTwoList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/MergeTwoSortedLists21/MergeTwoLists$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/MergeTwoSortedLists21/MergeTwoLists.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/MergekSortedLists23/MergeKLists$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/MergekSortedLists23/MergeKLists.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/MinStack/MinStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/MinWindow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/Multiple.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/Multiple.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/NestedInteger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/NestedIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/NextPermutation31/NextPermutation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/NumSquares.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/PalindromeList21/PalindromeList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/PalindromeNumber9/Solotion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/Partition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/PasikaTriple/PasikaTriple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/PowerOfThree/PowerOfThree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/ProductExceptSelf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/RandomListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/ReconstructQueue$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/ReconstructQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/RemoveDuplicatesfromSortedArray26/RemoveDuplicates.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/RemoveElement27/RemoveElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/RemoveInvalidParentheses.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/RemoveNthNode19/Solution$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/RemoveNthNode19/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/ReverseInteger7/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/ReverseList/ReverseList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/ReverseNodesInKGroup25/ReverseKGroup$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/ReverseNodesInKGroup25/ReverseKGroup.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/SearchforaRange34/SearchforaRange.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/SearchinRotatedSortedArray33/SearchinRotatedSortedArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/ShuffleanArray/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/Solve.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/SolveNQueens.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/SortList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/SortedArrayToBST/SortedArrayToBST.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/SpiralOrder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/StrStr/StrStr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/StringVaild20/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/StringtoInteger8/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/SubstringwithConcatenationofAllWords30/FindSubstring.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/SwapNodesInPairs24/swapPairs$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/SwapNodesInPairs24/swapPairs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/SymmetricTree/SymmetricTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/ThreeSumOfZero15/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/TotalNQueens.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/Trap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/TreeForTest/TreeTest$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/TreeForTest/TreeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/TreeNode/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/Tree_BFS/TreeBfs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/Trie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/Trie_own.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/TwoSum1/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/ValidBST/ValidBST.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/ValidBrackets/ValidBrackets.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/WiggleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/WordBreak.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/ZigZagConversion6/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/ChangeMoney.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/ChangeMoney.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/GitHub - 快捷方式.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/TimeMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/TimeMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/ValueTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/ValueTime.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -173,13 +26,16 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/main/Others/ModY.java">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/ByteDance/Reverse2ListNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
-              <caret line="19" column="106" selection-start-line="19" selection-start-column="106" selection-end-line="19" selection-end-column="106" />
+            <state relative-caret-position="38">
+              <caret line="2" column="67" selection-start-line="2" selection-start-column="67" selection-end-line="2" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -214,15 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/WiggleSort.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/KthSmallest.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/MaxProfit.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/NumSquares.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/WordBreak.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/LRUCache.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/Trie_own.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/Trie.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/NestedInteger.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/NestedIterator.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/MedianFinder.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/LargestNumber.java" />
@@ -265,6 +112,15 @@
         <option value="$PROJECT_DIR$/leetcode/src/main/leetcode其他题目/ChangeMoney.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/leetcode其他题目/ValueTime.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/Others/ModY.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/leetcode其他题目/CountDays.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/leetcode其他题目/Solution.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/leetcode其他题目/Max_div.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/leetcode其他题目/Main.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/ByteDance/MaxPath.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/ByteDance/Main1.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/ByteDance/Main.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/ByteDance/ReverseListNode.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/ByteDance/Reverse2ListNode.java" />
       </list>
     </option>
   </component>
@@ -281,10 +137,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="974" />
-    <option name="height" value="1047" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -294,13 +149,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="LeetCodeFreshman" type="b2602c69:ProjectViewProjectNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeFreshman" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="ByteDance" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCodeFreshman" type="b2602c69:ProjectViewProjectNode" />
@@ -312,30 +171,24 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode其他题目" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="LeetCodeFreshman" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode其他题目" type="462c0819:PsiDirectoryNode" />
-              <item name="ValueTime.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="LeetCodeFreshman" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="Others" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559216877320" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/leetcode/src/main/高级算法/Slope.java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/leetcode/src/main/高级算法/Slope.java" />
   </component>
@@ -362,63 +215,41 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ChangeMoney">
+  <component name="RunManager" selected="Application.Reverse2ListNode">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChangeMoney" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ChangeMoney" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChangeMoney2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ChangeMoney2" />
+    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main1" />
       <module name="main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Min_Path" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Min_Path" />
+    <configuration name="MaxDiv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaxDiv" />
       <module name="main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pow2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pow2" />
+    <configuration name="Reverse2ListNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Reverse2ListNode" />
       <module name="main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TimeMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TimeMap" />
-      <module name="main" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TreeNode" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TreeNode.TreeNode" />
-      <module name="main" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TreeNode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -430,12 +261,14 @@
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
       <listeners />
@@ -452,21 +285,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="Application.TreeNode" />
-      <item itemvalue="Application.Min_Path" />
-      <item itemvalue="Application.Pow2" />
-      <item itemvalue="Application.TimeMap" />
-      <item itemvalue="Application.ChangeMoney2" />
-      <item itemvalue="Application.ChangeMoney" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ChangeMoney" />
-        <item itemvalue="Application.ChangeMoney2" />
-        <item itemvalue="Application.TimeMap" />
-        <item itemvalue="Application.Pow2" />
-        <item itemvalue="Application.Min_Path" />
+        <item itemvalue="Application.Reverse2ListNode" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main1" />
+        <item itemvalue="Application.MaxDiv" />
       </list>
     </recent_temporary>
   </component>
@@ -552,10 +376,10 @@
     <option name="totallyTimeSpent" value="113044000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.108742006" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17643468" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -565,15 +389,15 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4967811" weight="0.2537961" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49785408" weight="0.5" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4967811" visible="true" weight="0.4020408" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49785408" weight="0.40918368" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5032189" side_tool="true" weight="0.32734275" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32909605" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32830626" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3253796" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3244898" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -720,18 +544,6 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/leetcode/src/main/Huawei/Min_Path.java</url>
-          <line>58</line>
-          <properties />
-          <option name="timeStamp" value="53" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/leetcode/src/main/Huawei/Min_Path.java</url>
-          <line>47</line>
-          <properties />
-          <option name="timeStamp" value="54" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/leetcode/src/main/Huawei/Min_Path.java</url>
           <line>64</line>
           <properties />
           <option name="timeStamp" value="55" />
@@ -740,56 +552,8 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/SolveNQueens.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/MinWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/Others/Zhuhe.java" />
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/CanCompleteCircuit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/FindCircleNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/PriorityQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="134" column="52" selection-start-line="129" selection-start-column="39" selection-end-line="134" selection-end-column="52" />
-          <folding>
-            <element signature="e#4453#4454#0" expanded="true" />
-            <element signature="e#4505#4506#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/PriorityQueue.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Comparator.java" />
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/Others/GetKeys.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1248">
@@ -908,13 +672,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/Huawei/FindPath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="676">
-          <caret line="26" column="48" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/Huawei/ReverseString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="443">
@@ -959,26 +716,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="2525" column="18" selection-start-line="2525" selection-start-column="18" selection-end-line="2525" selection-end-column="18" />
-          <folding>
-            <element signature="e#94325#94326#0" expanded="true" />
-            <element signature="e#94363#94364#0" expanded="true" />
-            <element signature="e#100805#100806#0" expanded="true" />
-            <element signature="e#100860#100861#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/Huawei/Password.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="61" column="1" lean-forward="true" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/String.java" />
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/初级算法/AddTwoNumbers2/AddTwoNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-610">
@@ -1087,16 +825,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/Huawei/Min_Path.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="54" column="6" selection-start-line="54" selection-start-column="6" selection-end-line="54" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/Others/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
@@ -1104,26 +832,157 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.desktop/com/sun/java/swing/plaf/gtk/GTKPainter.java">
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.desktop/com/sun/java/swing/plaf/gtk/GTKPainter.java" />
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/Others/ModY.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="485" column="20" selection-start-line="485" selection-start-column="20" selection-end-line="485" selection-end-column="20" />
+        <state relative-caret-position="201">
+          <caret line="26" column="70" selection-start-line="26" selection-start-column="70" selection-end-line="26" selection-end-column="70" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/Others/ModY.java">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/Huawei/FindPath.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="19" column="106" selection-start-line="19" selection-start-column="106" selection-end-line="19" selection-end-column="106" />
+        <state relative-caret-position="494">
+          <caret line="26" column="48" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/leetcode其他题目/CountDays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="43" column="41" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="41" />
+          <folding>
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/leetcode其他题目/MaxDiv.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/Huawei/Password.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="51" column="9" lean-forward="true" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/Huawei/Min_Path.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="611">
+          <caret line="67" column="9" selection-end-line="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/ByteDance/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-594">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/ByteDance/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="893">
+          <caret line="49" column="29" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/ByteDance/Reverse2ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="67" selection-start-line="2" selection-start-column="67" selection-end-line="2" selection-end-column="67" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>

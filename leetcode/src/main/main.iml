@@ -6,6 +6,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Huawei" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Others" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode其他题目" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ByteDance" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/高级算法" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
