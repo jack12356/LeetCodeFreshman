@@ -5,19 +5,30 @@
     <bookmark url="file://$PROJECT_DIR$/leetcode/src/main/初级算法/SwapNodesInPairs24/swapPairs.java" line="38" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df8dcdf9-e25e-46b0-b043-4a6009aad962" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/ByteDance/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/ByteDance/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/ByteDance/Reverse2ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/leetcode其他题目/CountDays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/leetcode其他题目/MaxDiv.java" afterDir="false" />
+    <list default="true" id="df8dcdf9-e25e-46b0-b043-4a6009aad962" name="Default" comment="32">
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/ByteDance/CombineTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/NewCode/ClampTower_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/Others/PreOrder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/main/ByteDance/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/ByteDance/Direct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/main/ByteDance/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/ByteDance/Direct2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leetcode/src/main/main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/ChangeMoney.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/ChangeMoney.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/GitHub - 快捷方式.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/FindPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/FindPath.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/GetKeys.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/GetKeys.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/KickStart/RoundB2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/KickStart/RoundB2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/KickStart/RoundB3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/KickStart/RoundB3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/KickStart/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/KickStart/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/KickStart/Solution1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/KickStart/Solution1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/MaxCoins.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/MaxCoins.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/Min_Path.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/Min_Path.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/Multiple.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/Multiple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/Password.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/Password.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/Pow2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/Pow2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/ReverseString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/ReverseString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/Test.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/main/TimeMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/TimeMap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/ValueTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/ValueTime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/ZuHe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/ZuHe.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,17 +41,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/main/ByteDance/Reverse2ListNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="67" selection-start-line="2" selection-start-column="67" selection-end-line="2" selection-end-column="67" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -59,6 +60,9 @@
       <find>map</find>
       <find>mody</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="MERGE" />
@@ -70,12 +74,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/NestedIterator.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/MedianFinder.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/LargestNumber.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/MaxPoints.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/ReconstructQueue.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/Trap.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/初级算法/Intersect/intersect.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/初级算法/Intersect/Solution.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/高级算法/ListNode.java" />
@@ -121,6 +119,12 @@
         <option value="$PROJECT_DIR$/leetcode/src/main/ByteDance/Main.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/ByteDance/ReverseListNode.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/ByteDance/Reverse2ListNode.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/Others/PreOrder.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/ByteDance/Direct.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/ByteDance/Direct2.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/ByteDance/CombineTarget.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/NewCode/CliamTower_1.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/NewCode/ClampTower_1.java" />
       </list>
     </option>
   </component>
@@ -137,9 +141,11 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1680" />
-    <option name="height" value="1050" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="17" />
+    <option name="y" value="23" />
+    <option name="width" value="1655" />
+    <option name="height" value="804" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -149,6 +155,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -159,24 +166,13 @@
             <path>
               <item name="LeetCodeFreshman" type="b2602c69:ProjectViewProjectNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="ByteDance" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCodeFreshman" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="Huawei" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCodeFreshman" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode其他题目" type="462c0819:PsiDirectoryNode" />
+              <item name="NewCode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -186,8 +182,8 @@
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559216877320" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Artifacts" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/leetcode/src/main/高级算法/Slope.java" />
@@ -215,31 +211,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Reverse2ListNode">
+  <component name="RunManager" selected="Application.ClampTower_1">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="ClampTower_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClampTower_1" />
       <module name="main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main1" />
+    <configuration name="CombineTarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CombineTarget" />
       <module name="main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxDiv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MaxDiv" />
+    <configuration name="Direct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Direct" />
+      <module name="main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Direct2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Direct2" />
       <module name="main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -287,10 +291,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClampTower_1" />
+        <item itemvalue="Application.CombineTarget" />
         <item itemvalue="Application.Reverse2ListNode" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main1" />
-        <item itemvalue="Application.MaxDiv" />
+        <item itemvalue="Application.Direct" />
+        <item itemvalue="Application.Direct2" />
       </list>
     </recent_temporary>
   </component>
@@ -369,17 +374,23 @@
       <option name="project" value="LOCAL" />
       <updated>1507437785523</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="32">
+      <created>1562592061363</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1562592061363</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="113044000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1680" height="954" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17643468" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1916972" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -389,15 +400,15 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4967811" visible="true" weight="0.4020408" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49785408" weight="0.40918368" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4967811" weight="0.4013921" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49785408" weight="0.40835267" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5032189" side_tool="true" weight="0.32734275" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32830626" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.327551" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3244898" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3236659" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -552,15 +563,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/PriorityQueue.java" />
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Comparator.java" />
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/Others/GetKeys.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1248">
-          <caret line="48" column="39" selection-start-line="48" selection-start-column="39" selection-end-line="48" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/高级算法/MaxPoints.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-338">
@@ -882,19 +884,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/ByteDance/Main.java">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/ByteDance/Reverse2ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-594">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        <state relative-caret-position="475">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/ByteDance/CombineTarget.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/ByteDance/Main1.java">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/ByteDance/Direct2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="893">
+        <state relative-caret-position="777">
           <caret line="49" column="29" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -902,10 +911,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/ByteDance/Reverse2ListNode.java">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/ByteDance/Direct.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="67" selection-start-line="2" selection-start-column="67" selection-end-line="2" selection-end-column="67" />
+        <state relative-caret-position="133">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/Others/PreOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/NewCode/ClampTower_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -949,6 +975,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
