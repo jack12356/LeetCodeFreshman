@@ -1,11 +1,10 @@
-import java.util.*;
-public class Test{
+public class Feibolach{
     public static void main(String []args){
-        Test test = new Test();
+        Feibolach feibolach = new Feibolach();
         String str = "ADCSDF";
         str = str.toLowerCase();
         System.out.println(str);
-//        test.getNthNumber(12);
+//        feibolach.getNthNumber(12);
     }
     public int getNthNumber(int n) {
             // write code here

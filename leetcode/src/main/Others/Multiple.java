@@ -10,8 +10,10 @@ public class Multiple {
         String num1 = strs[0];
         String num2 = strs[1];
         Multiple ma = new Multiple();
-        
+//
         System.out.println(ma.getRes(num1,num2));
+
+
     }
     public String getRes(String num1,String num2){
         int []nums1 = new int[num1.length()];

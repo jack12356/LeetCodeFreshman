@@ -1,4 +1,5 @@
 import java.util.Arrays;
+import java.util.Collections;
 import java.util.Comparator;
 import java.util.Scanner;
 
@@ -30,12 +31,7 @@ public class WarWorld_8 {
             int diff = a[i]-b[i];
             c[i] = new Com(diff, i);
         }
-        Arrays.sort(c, new Comparator<Com>() {
-            @Override
-            public int compare(Com o1, Com o2) {
-                return o1.diff-o2.diff;
-            }
-        });
+        Arrays.sort(c, Comparator.comparingInt(o -> o.diff));
         int n = a.length;
         int res = 0;
         for (int i = 0; i < n; i++) {

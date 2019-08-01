@@ -1,7 +1,5 @@
 package OddEvenList;
 
-import ListNode.ListNode;
-
 public class OddEvenList {
     public ListNode oddEvenList(ListNode head) {
         if (head == null) return head;

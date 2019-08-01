@@ -4,7 +4,7 @@ public class Reverse {
     //函数Reverse的功能：翻转一段字符串
     public void Reverse(char[] data,int begin,int end)
     {
-        if (data==null||data.length<0||begin<0||end>data.length||begin>end) return;
+        if (data==null||data.length==0||begin<0||end>data.length||begin>end) return;
         while (begin<end)
         {
             char temp=data[begin];
@@ -17,7 +17,7 @@ public class Reverse {
     public String ReverseAll(String string)
     {
         char[] data=string.toCharArray();
-        if (data==null||data.length<0)
+        if (data.length == 0)
             return null;
         Reverse(data,0,data.length-1);
         //翻转句子中的每个单词

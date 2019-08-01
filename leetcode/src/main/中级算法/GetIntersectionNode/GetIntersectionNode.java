@@ -1,7 +1,5 @@
 package GetIntersectionNode;
 
-import ListNode.ListNode;
-
 public class GetIntersectionNode {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
         ListNode l1 = headA;
