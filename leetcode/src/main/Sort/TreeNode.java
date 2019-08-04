@@ -1,7 +1,7 @@
-package TreeNode;
+package Sort;
 
-
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
 
 public class TreeNode {
     public int val;
@@ -19,22 +19,22 @@ public class TreeNode {
             List<TreeNode> curlist = new ArrayList<TreeNode>();
             for (int j=0;j<prelist.size();j++) {
                 TreeNode node = prelist.get(j);
-                 if (node==null) {
+                if (node==null) {
                     i+=2;
                     continue;
-                 }
-                 if (i<nums.length){
+                }
+                if (i<nums.length){
                     TreeNode left =  nums[i]==null?null:new TreeNode(Integer.parseInt(nums[i]));
                     node.left = left;
                     i++;
                     curlist.add(left);
-                 }
-                 if (i<nums.length) {
+                }
+                if (i<nums.length) {
                     TreeNode right = nums[i]==null?null:new TreeNode(Integer.parseInt(nums[i]));
                     node.right = right;
                     i++;
                     curlist.add(right);
-                 }
+                }
             }
             prelist = curlist;
         }

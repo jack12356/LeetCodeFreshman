@@ -1,8 +1,3 @@
-package MergeTwoRankedList;
-
-import ListNode.ListNode;
-
-
 public class MergeTwoList {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         ListNode i=l1;

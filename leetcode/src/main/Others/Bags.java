@@ -141,9 +141,11 @@ public class Bags {
                 else{
                     //考虑物品的件数限制
                     int maxV = Math.min(num[i-1],j/weight[i-1]);
+                    int max = dp[i - 1][j];
                     for(int k=0;k<maxV+1;k++){
-                        dp[i][j]=Math.max(dp[i-1][j],dp[i-1][j-k*weight[i-1]]+k*value[i-1]);
+                        max=Math.max(max,dp[i-1][j-k*weight[i-1]]+k*value[i-1]);
                     }
+                    dp[i][j] = max;
                 }
             }
         }

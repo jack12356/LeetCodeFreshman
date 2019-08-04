@@ -1,3 +1,5 @@
+package Others;
+
 import java.util.*;
 public class DropEggs {
     public static void main(String[] args) {

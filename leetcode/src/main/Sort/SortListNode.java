@@ -1,3 +1,5 @@
+package Sort;
+
 public class SortListNode {
     public static void main(String[] args) {
         int[] nums = new int[]{3, 5, 7, 1, 13, 24, 14, 9, 21};
@@ -6,12 +8,12 @@ public class SortListNode {
         head.showList();
     }
 
-    private static void qSort(ListNode head,ListNode end) {
+    private static void qSort(ListNode head, ListNode end) {
         ListNode small = head;
         ListNode cur = head.next;
         while (cur != end) {
             if (cur.val < head.val) {
-                small = small.next;
+                small = small.next;             // 更改small.next，所以small.next指向第一个大于head的数，最后更改small和head
                 int t = cur.val;
                 cur.val = small.val;
                 small.val = t;

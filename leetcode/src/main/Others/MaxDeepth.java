@@ -1,14 +1,3 @@
-package Tree;
-
-class TreeNode {
-    int val;
-    TreeNode left;
-    TreeNode right;
-    TreeNode(int v){
-        val = v;
-    }
-}
-
 public class MaxDeepth {
     public static void main(String[] args) {
         MaxDeepth test = new MaxDeepth();
@@ -25,4 +14,3 @@ public class MaxDeepth {
         return deep;
     }
 }
-

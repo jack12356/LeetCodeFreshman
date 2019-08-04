@@ -3,13 +3,10 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/Huawei" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/leetcode其他题目" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/NewCode" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Graph" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/PinDuoDuo" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/HighLevel" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Others" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/中级算法" />
+      <excludeFolder url="file://$MODULE_DIR$/初级算法" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -1,4 +1,4 @@
-import ListNode.ListNode;
+package 初级算法;
 
 public class CircleList {
     public boolean hasCycle(ListNode head) {
