@@ -1,3 +1,5 @@
+package leetcode其他题目;
+
 import java.util.Arrays;
 
 public class ChangeMoney2 {

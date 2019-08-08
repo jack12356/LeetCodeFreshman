@@ -19,7 +19,7 @@ public class Bags {
                 if(weight[i-1] > j)
                     dp[i][j] = dp[i-1][j];
                 else
-                    dp[i][j] = Math.max(dp[i-1][j],dp[i-1][j-weight[i-1]]+value[i-1]);
+                    dp[i][j] = Math.max(dp[i - 1][j], dp[i - 1][j - weight[i - 1]] + value[i - 1]);
             }
         }
         //则容量为V的背包能够装入物品的最大值为

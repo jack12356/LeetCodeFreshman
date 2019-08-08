@@ -1,3 +1,5 @@
+package leetcode其他题目;
+
 public class ChangeMoney {
     public int change(int amount, int[] coins) {
         int[] dp = new int[amount + 1];
