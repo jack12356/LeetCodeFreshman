@@ -1,3 +1,5 @@
+package PinDuoDuo;
+
 import java.util.*;
 
 class Point{

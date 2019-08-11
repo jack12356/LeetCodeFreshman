@@ -1,5 +1,4 @@
-import com.sun.tools.hat.internal.util.Comparer;
-
+package PinDuoDuo;
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.Scanner;

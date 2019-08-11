@@ -1,3 +1,5 @@
+package Others;
+
 import java.util.Scanner;
 
 public class Match2 {
@@ -33,7 +35,7 @@ public class Match2 {
             return cur.charAt(cur.length() - 1) == strs[index+1].charAt(0);
         }
     }
-    public void swap(int index,int i,String []board){
+    private void swap(int index, int i, String[] board){
         String t = board[i];
         board[i] =  board[index];
         board[index] =  t;

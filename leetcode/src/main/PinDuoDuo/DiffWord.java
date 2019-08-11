@@ -1,3 +1,4 @@
+package PinDuoDuo;
 import java.util.Scanner;
 
 public class DiffWord {
