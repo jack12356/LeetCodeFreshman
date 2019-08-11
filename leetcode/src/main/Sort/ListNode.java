@@ -8,7 +8,7 @@ public class ListNode {
     public void showList(){
         ListNode l1 = this;
         while(l1.next!=null){
-            System.out.printf(l1.val +"->");
+            System.out.print(l1.val +"->");
             l1=l1.next;
         }
         System.out.println(l1.val);

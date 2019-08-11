@@ -15,7 +15,9 @@ public class QuickSort {
             System.out.printf("%d ",nums[i]);
         }
     }
+
     private static void qucikSort(int[] nums, int left, int rt) {
+        if(left>=rt) return;
         int key = nums[left];
         int st = left;
         int end = rt;
@@ -29,8 +31,8 @@ public class QuickSort {
             }
             if(st<end) swap(nums, st, end);
         }
-        if(st>left) qucikSort(nums, left, st - 1);
-        if(st<rt) qucikSort(nums, st + 1, rt);
+        qucikSort(nums, left, st - 1);
+        qucikSort(nums, st + 1, rt);
     }
 
     private static void swap(int[] nums, int st, int end) {
