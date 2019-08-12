@@ -1,3 +1,5 @@
+package Graph;
+
 import static java.lang.Math.max;
 
 public class BinaryDirect {

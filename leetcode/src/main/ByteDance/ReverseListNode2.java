@@ -1,3 +1,5 @@
+package ByteDance;
+
 public class ReverseListNode2 {
     // 1->2->3->4->5->6
     // 5->6->3->4->1->2

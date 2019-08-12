@@ -1,3 +1,5 @@
+package Graph;
+
 import java.util.Scanner;
 
 public class TSP {
@@ -13,6 +15,7 @@ public class TSP {
         }
         solve(n,map);
     }
+
     public static void solve(int n,int[][]map){
         //dp[i][j]表示从i出发，经过j集合里的所有节点一次回到0点的最小小费
         int V = 1<<(n-1);  //
