@@ -1,4 +1,4 @@
-package Sort;
+package Search;
 
 public class FindFirstDecent {
     public static void main(String []args){

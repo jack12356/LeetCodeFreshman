@@ -1,8 +1,8 @@
-package Sort;
+package Search;
 
 import java.util.Scanner;
 
-public class FindFirstLower {
+public class FindFirstOver {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 //        int N = sc.nextInt();
@@ -24,30 +24,30 @@ public class FindFirstLower {
     private static int solve(int[] nums, int key) {
         int st = 0;
         int end = nums.length - 1;
-        while (st <= end) {
+        while(st<=end){
             int mid = st + (end - st) / 2;
-            if(nums[mid]<key){
+            if(nums[mid]<=key){
                 st = mid + 1;
-            }else {
+            }else{
                 end = mid - 1;
             }
         }
-        if(st==0) return -1;
-        return nums[st - 1];
+        if(st==nums.length) return -1;
+        return nums[st];
     }
 
     private static int solve_2(int[] nums, int key) {
         int st = 0;
         int end = nums.length;
-        while (st < end) {
+        while(st<end){
             int mid = st + (end - st) / 2;
-            if(nums[mid]<key){
+            if (nums[mid] <= key) {
                 st = mid + 1;
             }else {
                 end = mid;
             }
         }
-        if(st==0) return -1;
-        return nums[st - 1];
+        if(st == nums.length) return -1;
+        return nums[st];
     }
 }

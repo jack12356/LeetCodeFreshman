@@ -1,11 +1,17 @@
+package leetcode其他题目;
+
 import java.util.Scanner;
 
 public class CountDays{
-    int []month_day = new int[]{31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
-    public boolean isLeap(int year) {
+    private int[] month_day = new int[]{31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
+
+
+    private boolean isLeap(int year) {
         return (year % 4 == 0 && year % 100 != 0) || year % 400 == 0;
     }
-    public int dayOfYear(int year, int month, int day) {
+
+
+    private int dayOfYear(int year, int month, int day) {
         int res = 0;
         for (int i = 0; i < month - 1; i++) {
             res += month_day[i];
@@ -15,7 +21,8 @@ public class CountDays{
         return res;
     }
 
-    public int distance(int year1, int year2, int month1, int month2, int day1, int day2) {
+
+    private int distance(int year1, int year2, int month1, int month2, int day1, int day2) {
         if (year2 < year1 || (year2 == year1 && month2 < month1) || (year2 == year1 && month2 == month1 && day2 < day1)) {
             int t = year1;
             year1 = year2;

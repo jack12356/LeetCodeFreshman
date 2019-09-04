@@ -23,6 +23,11 @@ public class Min_Path {
     private static int floyd(int[][] weight, int st, int end) {
         int N = weight.length;
         int[][] dp = new int[N][N];
+        for (int i = 0; i < N; i++) {
+            for (int j = 0; j < N; j++) {
+                dp[i][j] = weight[i][j];
+            }
+        }
         for(int k = 0; k < N; k++)
             for(int i = 0; i < N; i++)
                 for(int j = 0;j < N; j++)

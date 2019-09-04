@@ -36,4 +36,36 @@ public class FindTopK {
         nums[i] = nums[j];
         nums[j] = t;
     }
+
+    /*
+    对大小为N的数组构建二叉堆的算法复杂度是O(N)。然后每次下滤的算法复杂度是O(logN)，一共下滤K次，算法复杂度是O(N+K*logN)。
+     */
+    public int findKthLargest(int[]nums,int k){
+        int len = nums.length;
+        for (int i = len/2; i>=0; i--) {
+            adjustHeap(nums,i,len);
+        }
+        for (int i = len-1; i >= len-k ; i--) {
+            int temp = nums[i];
+            nums[i] = nums[0];
+            nums[0] = temp;
+            adjustHeap(nums,0,i);
+        }
+        return nums[len-k];
+    }
+
+    private void adjustHeap(int[] nums, int parent, int len) {
+        int child = 2*parent+1;
+        int temp = nums[parent];
+        while(child<len){
+            if(child+1<len&&nums[child+1]>nums[child]) child+=1;
+            if(nums[parent]>=nums[child]) break;
+            else {
+                nums[parent] = nums[child];
+                nums[child] = temp;
+            }
+            parent = child;
+            child = 2*child+1;
+        }
+    }
 }

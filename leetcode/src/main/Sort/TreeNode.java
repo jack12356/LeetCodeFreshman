@@ -59,9 +59,8 @@ public class TreeNode {
 
     // Decodes your encoded data to tree.
     public TreeNode deserialize(List<Integer> data) {
-        int index[] = {0};
-        TreeNode root = build(index, data);
-        return root;
+        int[] index = {0};
+        return build(index, data);
     }
 
     private TreeNode build(int[] index, List<Integer> data) {

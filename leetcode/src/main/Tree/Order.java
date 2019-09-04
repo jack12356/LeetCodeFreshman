@@ -48,9 +48,8 @@ public class Order {
 
     private static void backOrder(TreeNode root) {
         List<Integer> list = new ArrayList<>();
-        TreeNode p = root;
         Stack<TreeNode> stack = new Stack<>();
-        stack.add(p);
+        stack.add(root);
         TreeNode pre = null;
         while(!stack.isEmpty()){
             TreeNode cur = stack.peek();
