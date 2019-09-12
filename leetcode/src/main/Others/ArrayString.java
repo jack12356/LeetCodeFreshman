@@ -12,7 +12,7 @@ public class ArrayString {
 
     private static String arrayString(String[] strs) {
         StringBuilder res = new StringBuilder();
-        Comparator<String> comparator = (s1, s2) -> Integer.parseInt(s2+s1)-Integer.parseInt(s1+s2);
+        Comparator<String> comparator = (s1, s2) -> (s2+s1).compareTo(s1+s2);
         Arrays.sort(strs,comparator);
         for (String s :
                 strs) {

@@ -17,6 +17,7 @@ public class FindFirstOrLast {
         }else {
             System.out.println("did't find!");
         }
+
     }
 
     private static int findFirst(int[] nums, int key){
