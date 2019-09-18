@@ -1,7 +1,5 @@
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
-import java.util.List;
 
 public class FourSumCount {
     public int fourSumCount(int[] A, int[] B, int[] C, int[] D){
